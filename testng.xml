@@ -1,0 +1,8 @@
+<suite name = "jenkinsPro">
+    <test name = "firstTest">
+        <classes>
+            <class name = "myPackage.Class1"/>
+            <class name = "myPackage.Class2"/>
+        </classes>
+    </test>
+</suite>
