@@ -12,4 +12,9 @@ public class Class2 {
     public void myNumber(){
         System.out.println("079877786767");
     }
+
+    @Test
+    public void myHobby(){
+        System.out.println("Watching movies");
+    }
 }
